@@ -1,0 +1,22 @@
+﻿  lab2UnitTests.cpp
+C:\Users\alexs\OneDrive\Рабочий стол\3 семестр\АиСтрД\lab2\lab2\arrayclasses.h(18,19): warning C4244: инициализация: преобразование "_Rep" в "long", возможна потеря данных
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+C:\Users\alexs\OneDrive\Рабочий стол\3 семестр\АиСтрД\lab2\lab2\arrayclasses.h(39,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\alexs\OneDrive\Рабочий стол\3 семестр\АиСтрД\lab2\lab2\arrayclasses.h(69,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\alexs\OneDrive\Рабочий стол\3 семестр\АиСтрД\lab2\lab2\arrayclasses.h(75,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\alexs\OneDrive\Рабочий стол\3 семестр\АиСтрД\lab2\lab2\arrayclasses.h(93,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\alexs\OneDrive\Рабочий стол\3 семестр\АиСтрД\lab2\lab2\arrayclasses.h(116,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\alexs\OneDrive\Рабочий стол\3 семестр\АиСтрД\lab2\lab2\arrayclasses.h(217,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\alexs\OneDrive\Рабочий стол\3 семестр\АиСтрД\lab2\lab2\arrayclasses.h(246,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\alexs\OneDrive\Рабочий стол\3 семестр\АиСтрД\lab2\lab2\arrayclasses.h(252,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\alexs\OneDrive\Рабочий стол\3 семестр\АиСтрД\lab2\lab2\arrayclasses.h(273,31): warning C4101: exception: неиспользованная локальная переменная
+C:\Users\alexs\OneDrive\Рабочий стол\3 семестр\АиСтрД\lab2\lab2\arrayclasses.h(308,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\alexs\OneDrive\Рабочий стол\3 семестр\АиСтрД\lab2\lab2\arrayclasses.h(310,30): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\alexs\OneDrive\Рабочий стол\3 семестр\АиСтрД\lab2\lab2\arrayclasses.h(338,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\alexs\OneDrive\Рабочий стол\3 семестр\АиСтрД\lab2\lab2UnitTests\lab2UnitTests.cpp(96,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\alexs\OneDrive\Рабочий стол\3 семестр\АиСтрД\lab2\lab2UnitTests\lab2UnitTests.cpp(335,21): warning C4018: <: несоответствие типов со знаком и без знака
+     Создается библиотека C:\Users\alexs\OneDrive\Рабочий стол\3 семестр\АиСтрД\lab2\Debug\lab2UnitTests.lib и объект C:\Users\alexs\OneDrive\Рабочий стол\3 семестр\АиСтрД\lab2\Debug\lab2UnitTests.exp
+  lab2UnitTests.vcxproj -> C:\Users\alexs\OneDrive\Рабочий стол\3 семестр\АиСтрД\lab2\Debug\lab2UnitTests.dll
